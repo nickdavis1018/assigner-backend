@@ -33,7 +33,7 @@ Want more detail about how it functions? Check out the <a href="https://github.c
 
 ## Original ERD
 
-<img src="https://imgur.com/cZyqo4kpng.png"/>
+<img src="https://imgur.com/ytQhUaV.png/"/>
 
 ## Wireframes
 
